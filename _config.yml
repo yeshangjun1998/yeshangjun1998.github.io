@@ -1,12 +1,12 @@
 # Basic
-title: 小白
-subtitle: 个人博客
-description: 欢迎来到我的个人博客~
+title: 叶尚君
+subtitle: 个人站
+description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: yeshangjun
+avatarTitle:  love Study
 # 头像里面的描述
-avatarDesc: it小白 / 自主学习
-url: "http://yeshangjun1998.github.io"
+avatarDesc: php/ 自我学习
+url: "http://baixin.io"
 
 # Comment
 comment:
@@ -20,7 +20,7 @@ social:
     github: yeshangjun1998
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: 79dac49038e0
     # twitter: 
     mail: 17531371704@163.com
 
@@ -41,7 +41,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址：https://github.com/yeshangjun1998/yeshangjun1998.github.io
+#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
@@ -71,5 +71,4 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
-
 
