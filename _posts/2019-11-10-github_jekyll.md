@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "github+jekyll搭建个人网站"
-date: 2019-11-06 
+date: 2019-11-10 
 description: "github+jekyll搭建个人网站"
-tag: git,jekyll
+tag: git
 ---   
 
 
@@ -15,7 +15,8 @@ GitHub搭建个人网站，大家在网上一搜能搜到一大把的教程，�
 
 2.点击New repository–>输入仓库名称格式为：用户名.github.io(如：leach-chen.github.io)->点击Create repository
 
-![img](https://upload-images.jianshu.io/upload_images/3700891-ec225bdee10284f2..png?imageMogr2/auto-orient/strip|imageView2/2/w/568/format/webp)![img](https://upload-images.jianshu.io/upload_images/3700891-a49cc279d54154fe..png?imageMogr2/auto-orient/strip|imageView2/2/w/990/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/3700891-ec225bdee10284f2..png?imageMogr2/auto-orient/strip|imageView2/2/w/568/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/3700891-a49cc279d54154fe..png?imageMogr2/auto-orient/strip|imageView2/2/w/990/format/webp)
 3.浏览器里访问https://leach-chen.github.io/,可以发现这个url可以被访问了，你可以把改仓库拉取到本地，然后在里面新建一个index.html的文件,在里面输入任意内容，然后再把代码推送到git上，然后再访问改链接，可以发现index.html里面的内容被访问到了。
 
 到这里，一个免费且无限流量的github代码托管仓库就创建完成了。

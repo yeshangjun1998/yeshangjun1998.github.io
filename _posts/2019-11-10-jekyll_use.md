@@ -1,10 +1,10 @@
 ---
-layout:post
-title:"使用jekyll搭建本地博客"
-date:2019-11-10
-description:"jekyll搭建博客"
-tag:jekyll
----
+layout: post
+title: "使用jekyll搭建本地博客"
+date: 2019-11-10 
+description: "使用jekyll搭建本地博客"
+tag: Jekyll
+---   
 
 
 ## jekyll
