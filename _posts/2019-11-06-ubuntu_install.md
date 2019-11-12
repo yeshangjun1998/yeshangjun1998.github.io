@@ -3,11 +3,10 @@ layout: post
 title: "安装ubuntu 系统"
 date: 2019-11-06 
 description: "ubuntu 系统"
-tag: Ubuntu
+tag: 操作系统信息
 ---   
 
 <center><h1>ubuntu系统安装</h1></center>
-
 1. ### 下载ubuntu[镜像](https://ubuntu.com/download/desktop)
 
 2. ### 准备一个空u盘准备安装ubuntu启动镜像

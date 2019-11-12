@@ -3,7 +3,7 @@ layout: post
 title: "github+jekyll搭建个人网站"
 date: 2019-11-10 
 description: "github+jekyll搭建个人网站"
-tag: git
+tag: 框架使用和安装
 ---   
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "使用jekyll搭建本地博客"
 date: 2019-11-10 
 description: "使用jekyll搭建本地博客"
-tag: Jekyll
+tag: 框架使用和安装
 ---   
 
 
